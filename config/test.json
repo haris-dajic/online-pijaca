@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "PrivateKeyForTesting",
+    "database": "mongodb://localhost/online-pijaca-test",
+    "JWT_EXPIRES_IN": "5h"
+}
